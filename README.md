@@ -44,5 +44,9 @@ Bridge is a cross-platform file sharing app built with Flutter — designed for 
 ## 🎥 Demo
 [![Watch the video](https://img.youtube.com/vi/Re7kK4xHSbc/maxresdefault.jpg)](https://youtube.com/shorts/Re7kK4xHSbc)
 
+## Support
+
+If you like this project or found it useful, consider supporting my work ❤️  
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/ryokcodes)
 
    Thank You.
